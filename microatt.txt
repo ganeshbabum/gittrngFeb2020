@@ -1,0 +1,493 @@
+
+
+10:08
+
+Pavankumar Cherukuri to me
+
+Please share how to develop Microservices in .net c#, after this session. We will go through that as well for practical understanding.
+Reply in private
+
+
+
+10:15
+
+Praveen
+
+Hi Ganesh
+
+
+
+
+10:16
+
+Praveen
+
+Is session started? cant hear anything
+
+
+
+
+10:16
+
+Kaviyarasi M to me
+
+its audible 
+Reply in private
+
+
+
+10:16
+
+Naseer Syed to me
+
+I can 
+Reply in private
+
+
+
+10:16
+
+Senthil
+
+I can hear
+
+
+
+
+10:16
+
+Priya
+
+Yes 
+
+
+
+
+10:17
+
+Nisha pai to me
+
+i can hear
+Reply in private
+
+
+
+10:17
+
+Suman
+
+Yes I can
+
+
+
+
+10:17
+
+Me
+
+Praveen - you may need to reconnect or check your speker
+
+
+
+
+10:19
+
+soloman-17249
+
+Hi Ganesh ,  i am not able ear 
+
+
+
+
+10:19
+
+Praveen
+
+try to rejoin, it will resolve. I tried same
+
+
+
+
+10:42
+
+Ashwin Kumar M R to Presenter
+
+in monolithic application, if i use multiple  services does it become microservice
+Reply in private
+
+
+
+10:42
+
+Ashwin Kumar M R to Presenter
+
+?
+Reply in private
+
+
+
+10:47
+
+Pavankumar Cherukuri to me
+
+Other than desgin changes.... Functionality wise... Do we have any major difference between Microservices and our traditional web api services using .net core or 
+Net framework?
+
+Security wise..... What r the major differences we can understand here?
+Reply in private
+
+
+
+10:50
+
+Ashwin Kumar M R to Presenter
+
+ok
+Reply in private
+
+
+
+10:51
+
+Pavankumar Cherukuri to me
+
+Ok
+Reply in private
+
+
+
+10:51
+
+Karthik Babu V
+
+How to measure amenability of a microservice ?
+
+
+
+
+10:52
+
+Pavankumar Cherukuri to me
+
+But this Microservices requires more resources which eventually increase the cost of development right
+Reply in private
+
+
+
+10:52
+
+Pavankumar Cherukuri to me
+
+In which situations we should choose traditional web api and in what situations we should opt for Microservices
+Reply in private
+
+
+
+10:57
+
+Pavankumar Cherukuri to me
+
+Yes also we need to.maintain separate db for each of these services. 
+Reply in private
+
+
+
+10:57
+
+Ashwin Kumar M R to Presenter
+
+if there is any issue may be functionality or any , in application.. how to debug, since its not single technology
+Reply in private
+
+
+
+10:58
+
+Pavankumar Cherukuri to me
+
+Okay
+Reply in private
+
+
+
+11:00
+
+Pavankumar Cherukuri to me
+
+Load balancing we do at server side I mean on cloud environment or even we need to configure or make something ready at developer point in his development
+Or else is everything automated without much developer role ?
+Reply in private
+
+
+
+11:00
+
+Pavankumar Cherukuri to me
+
+Sure
+Reply in private
+
+
+
+11:07
+
+Karthik Babu V to Organizer(s)
+
+what does amenable mean with respect to microservices?
+Reply in private
+
+
+
+11:15
+
+Pavankumar Cherukuri to me
+
+Yes it's bit amenable. 
+We can have a full advantage ( control ) over the services that we r developing, so if anything causing an issue developer takes privilege to look into it. And there is a chance to fix in optimistic time if there is better understanding of the problem and if we have a troubleshoot answer.
+Reply in private
+
+
+
+11:19
+
+Pavankumar Cherukuri to me
+
+How Microservices performance impacts if we r using suppose database server an SQL server type and to that of document based databases ( like no SQL ) like mongodb..... Which is faster and efficient and best approach
+Reply in private
+
+
+
+11:22
+
+Pavankumar Cherukuri to me
+
+k
+Reply in private
+
+
+
+11:30
+
+Karthik Babu V to Organizer(s)
+
+how is it cost efficient to scale a microservice on deman basis ?
+Reply in private
+
+
+
+11:31
+
+Me
+
+demand basis
+
+
+
+
+11:31
+
+Me
+
+?
+
+
+
+
+11:41
+
+Karthik Babu V to Organizer(s)
+
+when the demand fo service goes up on one day and down on other days
+Reply in private
+
+
+
+11:47
+
+Karthik Babu V to Organizer(s)
+
+18146
+Reply in private
+
+
+
+11:47
+
+Venkat to Presenter
+
+18255 - Venkatesan Chokkalingam
+Reply in private
+
+
+
+11:48
+
+soloman-17249
+
+17249
+
+
+
+
+11:53
+
+Venkat to Presenter
+
+18255 
+Reply in private
+
+
+
+11:53
+
+Praveen to Organizer(s)
+
+.
+Reply in private
+
+
+
+11:53
+
+Praveen to Organizer(s)
+
+5282
+Reply in private
+
+
+
+11:54
+
+Venkat to Presenter
+
+Ganesh, Will you be sharing this PPTs
+Reply in private
+
+
+
+11:54
+
+Venkat to Presenter
+
+Thank you
+Reply in private
+
+
+
+11:54
+
+Ashwin to me
+
+17353
+Reply in private
+
+
+
+12:19
+
+Senthil to me
+
+5534
+Reply in private
+
+
+
+12:19
+
+Priya
+
+16228
+
+
+
+
+12:19
+
+Bala
+
+Bala - 17021
+
+
+
+
+12:19
+
+Kaviyarasi M to me
+
+Kaviyarasi.M-16764
+Reply in private
+
+
+
+12:19
+
+Aishwarya Gowda G.S to me
+
+Aishwarya Gowda G.S -16795
+Reply in private
+
+
+
+12:20
+
+Nisha pai to me
+
+Nisha Pai-17254
+Reply in private
+
+
+
+12:25
+
+Kiran Kumar
+
+14666
+
+
+
+
+12:34
+
+Bala to me
+
+Routing in Microservice?
+Reply in private
+
+
+
+12:34
+
+Pavankumar Cherukuri to me
+
+17671
+Reply in private
+
+
+
+12:46
+
+Venkat
+
+18255
+
+
+
+
+12:46
+
+[Waiting for name 3800031]
+
+pls.... share the recorded session
+
+
+
+
+12:47
+
+Kaviyarasi M to me
+
+thank you
+Reply in private
+
+
+16772
